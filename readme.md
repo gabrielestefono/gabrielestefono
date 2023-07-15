@@ -1,19 +1,32 @@
 # Olá e bem vindo ao meu repositório! Meu nome é Gabriel Estéfono, sou desenvolvedor!
 
-Sou estudante de Engenharia de Software, apaixonado por toda a área tecnológica. Iniciei meus estudos na àrea a aproximadamente um ano e meio, fiz alguns cursos e devido à dificuldade de atualmente iniciar-se na carreira, optei por trabalhos freelancer como uma forma de "financiar" meus estudos na área. Provavelmente foi uma das minhas melhores decisões.
-Atualmente trabalho com as seguintes tecnologias.
+Sou estudante de Engenharia de Software, apaixonado por toda a área tecnológica. Iniciei meus estudos na àrea a aproximadamente dois anos, atualmente trabalho com desenvolvimento PHP em uma empresa chamada Tuxon.
+Atualmente trabalho com as seguintes tecnologias profissionalmente.
+
 ## Frontend:
   * HTML e CSS
   * JavaScript
-  * Bootstrap
-  * React
 ## Backend:
   * PHP
-  * Python
-  * Linguagem C
+  * Laravel (Framework)
 ## Banco de dados:
   * MySQL
   * PDO
+
+Conheço as tecnologias
+## Frontend:
+  * HTML e CSS
+  * JavaScript
+  * React
+  * Next
+  * Vue
+## Backend:
+  * PHP
+  * Laravel (Framework)
+## Banco de dados:
+  * MySQL
+  * PDO
+  * Firebase
   
   
 # Os meus projetos mais interessantes, acredito que são esses: 
