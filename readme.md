@@ -1,42 +1,74 @@
-# Gabriel Estéfono - Desenvolvedor Full Stack
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> • 
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>
+</p>
 
-**Bem-vindo ao meu GitHub!**
+# Gabriel Estéfono — Full Stack Developer
 
-Sou um desenvolvedor com 2 anos de experiência: 1 ano e meio trabalhando com Laravel e 6 meses com Spring Boot (05/09/2024). Aqui você vai encontrar projetos que mostram meu entusiasmo pela programação e meu esforço para melhorar minhas habilidades.
+Welcome to my GitHub.
 
-## Sobre Mim
+I’m a **full stack developer with 4 years of experience**, working on real-world projects with a strong focus on delivering functional, sustainable, and maintainable software. I work professionally with **Laravel**, use **Vue.js** daily in my full-time role, and build personal projects mainly with **Node.js and Next.js**.
 
-- Desenvolvedor Full Stack com experiência em Spring Boot, Laravel, Angular, Flutter, Next.js, React e Blade.
-- Trabalhei com Laravel em projetos profissionais e continuo a usá-lo em projetos próprios.
-- Tenho conhecimento em Flutter e estou desenvolvendo minhas habilidades nessa área.
-- Músico nas horas vagas: toco violão e guitarra e sou um grande apreciador de rock.
-- Apaixonado por jogos e séries, sempre em busca de novos títulos para explorar e me divertir.
-- Engajado em comunidades online, onde compartilho conhecimento e me conecto com outros profissionais.
+My main strength as a full stack developer is balance:
+a **well-crafted and fast frontend** (above average for full stack teams) combined with a **responsible, maintainable backend**, designed with future developers in mind.
 
-## Projetos Destacados
+## About me
 
-Atualmente, meu GitHub está repleto de projetos de estudo, já que passo a maior parte do tempo mergulhado em novos aprendizados. Não tenho muitos projetos chamativos para exibir, pois, como um bom desenvolvedor júnior, estou mais focado em expandir meu conhecimento do que em criar demonstrações impressionantes. Sinta-se à vontade para explorar, especialmente os projetos fixados.
+I’ve worked in small, medium, and more structured teams, which gave me a solid understanding of both technical and product contexts. In environments where frontend is often a bottleneck, my work stands out for visual clarity, strong fundamentals, and delivery speed. In more mature frontend teams, I’ve learned to raise my level of detail and consistency.
 
-## Contato
+On the backend, my main concerns are **maintainability, clarity, and security**. I don’t write code just to “work for now”, but to avoid becoming a problem later. I tend to think carefully while developing, always assuming that someone else — or future me — will need to understand and evolve that code.
 
-- Email: gabrielestefono@hotmail.com
-- Site: [gabrielestefono.com.br](https://gabrielestefono.com.br)
-- GitHub: [gabrielestefono](https://github.com/gabrielestefono)
+I enjoy projects where technical decisions truly matter and where the code is expected to stand the test of time.
 
-## Objetivos
+## Stack
 
-- Continuar aprimorando minhas habilidades técnicas, porque nunca se é bom o suficiente para parar de aprender.
-- Transformar ideias malucas em projetos reais e, eventualmente, encontrar uma maneira de ser meu próprio chefe, trabalhando nos meus próprios termos (e quem sabe, ainda convencer alguém a deixar eu trabalhar do sofá de casa).
+**Backend**
 
-## Agradecimentos
+* Laravel (PHP)
+* Node.js
 
-Obrigado por dar uma olhada no meu perfil e nos meus projetos! Se você gostou de alguma coisa ou teve uma ideia de projeto e de como podemos colaborar, não hesite em me contactar. Se não gostou, espero que pelo menos tenha achado o tempo aqui tão interessante quanto um vídeo de gatos. (Viva a supremacia dos gatos)
+**Frontend**
 
-Agradeço a visita e, quem sabe, nos vemos por aí!
+* Vue.js
+* Next.js / React
 
-// TODO: **UM DIA** eu deixo isso aqui bem enfeitadinho.
+**Other**
 
-![gabrielestefono's Stats](https://github-readme-stats.vercel.app/api?username=gabrielestefono&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-![gabrielestefono's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielestefono&theme=vue-dark&hide_border=true)
-![gabrielestefono's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielestefono&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+* Experience with legacy code
+* Frontend + backend integration
+* Product-oriented development
+* Balance between speed and quality
 
+## Projects
+
+Currently, most of my repositories are private.
+I’m reorganizing my GitHub to publish projects that **better represent my current level**, focusing on real-world applications, solid structure, and clear technical decisions.
+
+New public projects should appear here over the next few months.
+
+## Contact
+
+* Email: [gabrielestefono@hotmail.com](mailto:gabrielestefono@hotmail.com)
+* Website: [https://gabrielestefono.com.br](https://gabrielestefono.com.br)
+* GitHub: [https://github.com/gabrielestefono](https://github.com/gabrielestefono)
+
+---
+
+If anything here resonates with you or sparks a good technical conversation, feel free to reach out.
+
+Thanks for stopping by.
+
+<p align="center"><strong>Main stack</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+</p>
+
+<p align="center"><strong>Previous experience</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+</p>
